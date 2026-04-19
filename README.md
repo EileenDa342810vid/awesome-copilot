@@ -61,4 +61,4 @@ Copilot Extensions available in the [GitHub Marketplace](.github/plugin/marketpl
 - [Copilot in the CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli)
 - [Copilot Chat Cookbook](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat) — Handy reference I keep coming back to.
 - [VS Code Copilot Tips & Tricks](https://code.visualstudio.com/docs/copilot/overview)
-- [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) — Interesting read on AI-assisted PR descriptions.
+- [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) — Still experimental but worth watching.
