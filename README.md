@@ -59,6 +59,7 @@ Copilot Extensions available in the [GitHub Marketplace](.github/plugin/marketpl
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - [Prompt Engineering for Copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Copilot in the CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli)
+- [Copilot Chat Cookbook](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat) — Handy reference I keep coming back to.
 
 ---
 
@@ -67,14 +68,4 @@ Copilot Extensions available in the [GitHub Marketplace](.github/plugin/marketpl
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
 1. Fork the repository
-2. Add your resource under the appropriate section
-3. Follow the existing format and style
-4. Submit a pull request with a clear description
-
-## Contributors
-
-Thanks to all our contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list.
-
-## License
-
-[CC0 1.0](LICENSE) — Public Domain
+2. Add your resource under
