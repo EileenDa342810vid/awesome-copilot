@@ -60,5 +60,5 @@ Copilot Extensions available in the [GitHub Marketplace](.github/plugin/marketpl
 - [Prompt Engineering for Copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Copilot in the CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli)
 - [Copilot Chat Cookbook](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat) — Handy reference I keep coming back to.
-- [VS Code Copilot Tips & Tricks](https://code.visualstudio.com/docs/copilot/overview)
-- [Copilot for CLI Cheat Sheet](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli) — Added this one; the `gh copilot suggest` command is surprisingly useful.
+- [VS Code Copilot Tips & Tricks](https://code.visualstudio.com/docs/copilot/overview) — Good starting point for VS Code-specific features.
+- [Copilot for CLI Cheat Sheet](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli) — I use `gh copilot suggest` constantly.
